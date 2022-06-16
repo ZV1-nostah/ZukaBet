@@ -14,8 +14,8 @@ global.gopay = '081229393997'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'zerotwoo-chan'
-global.gc = 'https://chat.whatsapp.com/BxrDMvfLeKTHtvAWKHWZbZ'
-global.web = 'https://www.helgastoree.xyz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://chat.whatsapp.com/EBWZ1k9nIC13TK5hWNOn3z'
+global.web = 'https://wa.me/+6281229393997' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
