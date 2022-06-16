@@ -1,7 +1,7 @@
 //=============『 Utama 』================== //
 global.owner = ['6281229393997'] 
 global.mods = [] 
-global.prems = [6281229393997] 
+global.prems = ['6281229393997'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'zex turu'
