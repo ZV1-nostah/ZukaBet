@@ -41,7 +41,7 @@ global.author = '© Zex inc.'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
-  Alphabot-Api: 'https://api.zeeoneofc.xyz', 
+  AlphabotApi: 'https://api.zeeoneofc.xyz', 
   amel: 'https://melcanz.com',
     bx: 'https://bx-hunter.herokuapp.com',
   dhnjing: 'https://dhnjing.xyz',
