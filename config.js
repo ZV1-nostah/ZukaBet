@@ -66,7 +66,7 @@ global.APIs = { // API Prefix
   rey: 'https://server-api-rey.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  'https://api.zeeoneofc.xyz/': 'CNFGUOZy'
   'https://melcanz.com': 'elaina',
   'https://server-api-rey.herokuapp.com': 'apirey',
   'https://api.xteam.xyz': 'd37372311698ed1d',
