@@ -40,6 +40,7 @@ global.packname = 'zero-bot'
 global.author = '© Zex inc.'
 
 //=============『 Apikey 』================== //
+
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -66,7 +67,7 @@ global.APIs = { // API Prefix
   rey: 'https://server-api-rey.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
-  'https://api.zeeoneofc.xyz': 'CNFGUOZy'
+  // 'https://website': 'apikey'
   'https://melcanz.com': 'elaina',
   'https://server-api-rey.herokuapp.com': 'apirey',
   'https://api.xteam.xyz': 'd37372311698ed1d',
