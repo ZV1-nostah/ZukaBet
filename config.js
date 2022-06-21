@@ -40,7 +40,6 @@ global.packname = 'zero-bot'
 global.author = '© Zex inc.'
 
 //=============『 Apikey 』================== //
-
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
